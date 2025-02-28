@@ -55,8 +55,8 @@ This part of the [module of Economics of Digital Transormation](https://univaq.c
 - **Objective**: Introduce students to practical modelling using `R`.
 - **Topics**:
   - Introduction to macro-dynamic modelling using `R`.
-  - A State-money SFC model.
-  - A bank-money SFC model.
+  - A State-money SFC model (go to the [code](https://github.com/marcoverpas/SFC-models-R/blob/master/PC.R)).
+  - A bank-money SFC model (go to the [code](https://github.com/marcoverpas/SFC-models-R/blob/master/BMW.R)).
 - **Readings**:
   - Godley, W., & Lavoie, M. (2007). *Monetary Economics* ([selected sections](https://www.marcopassarella.it/wp-content/uploads/GodleyLavoie-2007-sections_protected.pdf)).
   - `R` tutorials for [stock-flow consistent modelling in R](https://github.com/marcoverpas/).
