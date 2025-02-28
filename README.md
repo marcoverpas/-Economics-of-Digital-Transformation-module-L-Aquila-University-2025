@@ -18,8 +18,8 @@ This part of the [module of Economics of Digital Transormation](https://univaq.c
   - The role of States and banks in money creation.
   - A monetary theory of production (the monetary circuit).
 - **Readings**:
-  - Graziani, A. (2003). *The Monetary Economy of Production* (selected sections).
-  - Lavoie, M. (2014). *Post-Keynesian Economics: New Foundations* (selected sections).
+  - Graziani, A. (2003). *The Monetary Economy of Production* ([selected sections](https://www.marcopassarella.it/wp-content/uploads/Graziani-2003-sections_protected.pdf)).
+  - Lavoie, M. (2014). *Post-Keynesian Economics: New Foundations* ([selected sections](https://www.marcopassarella.it/wp-content/uploads/Lavoie-2014-sections_protected.pdf)).
   - Veronese Passarella, M. (2025). [*Issues in Monetary Policies and Monetary Circuits*](https://github.com/marcoverpas/PhD_Lectures_Macerata_2025) (selected sections).
 
 ---
@@ -45,7 +45,7 @@ This part of the [module of Economics of Digital Transormation](https://univaq.c
   - Stock-flow consistent (SFC) models: principles and applications.
   - Key sectors and balance sheets in a monetary economy.
 - **Readings**:
-  - Godley, W., & Lavoie, M. (2007). *Monetary Economics* (selected sections).
+  - Godley, W., & Lavoie, M. (2007). *Monetary Economics* ([selected sections](https://www.marcopassarella.it/wp-content/uploads/GodleyLavoie-2007-sections_protected.pdf)).
   - Lavoie, M. (2014). *Post-Keynesian Economics: New Foundations* (selected sections).
 
 ---
@@ -58,7 +58,7 @@ This part of the [module of Economics of Digital Transormation](https://univaq.c
   - A State-money SFC model.
   - A bank-money SFC model.
 - **Readings**:
-  - Godley, W., & Lavoie, M. (2007). *Monetary Economics* (selected sections).
+  - Godley, W., & Lavoie, M. (2007). *Monetary Economics* ([selected sections](https://www.marcopassarella.it/wp-content/uploads/GodleyLavoie-2007-sections_protected.pdf)).
   - *R* tutorials for [stock-flow consistent modelling in R](https://github.com/marcoverpas/).
 
 ---
