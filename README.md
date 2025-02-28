@@ -32,7 +32,7 @@ This part of the [module of Economics of Digital Transormation](https://univaq.c
 - **Readings**:
   - Amato, M., & Fantacci, L. (2011). *The End of Finance* or related works on cryptocurrencies (selected sections).
   - Carlomagno, G., & Veronese Passarella, M. (2023). *Central bank digital currencies: Exploring the transformative implications on credit mechanisms and the banking system*.
-  - Nakamoto, S. (2008). *Bitcoin: A Peer-to-Peer Electronic Cash System*.
+  - Nakamoto, S. (2008). [*Bitcoin: A Peer-to-Peer Electronic Cash System*](https://www.ussc.gov/sites/default/files/pdf/training/annual-national-training-seminar/2018/Emerging_Tech_Bitcoin_Crypto.pdf).
 
 ---
 
@@ -48,7 +48,7 @@ This part of the [module of Economics of Digital Transormation](https://univaq.c
 
 ---
 
-### Lecture 4: Hands-On Modelling in `R` (3 hours)
+### Lecture 4: Hands-On Modelling in *R* (3 hours)
 
 - **Objective**: Introduce students to practical modelling using `R`.
 - **Topics**:
@@ -57,7 +57,7 @@ This part of the [module of Economics of Digital Transormation](https://univaq.c
   - A bank-money SFC model.
 - **Readings**:
   - Godley, W., & Lavoie, M. (2007). *Monetary Economics* (selected sections).
-  - R tutorials for stock-flow consistent modelling ([GitHub repository](https://github.com/marcoverpas/)).
+  - *R* tutorials for [stock-flow consistent modelling in R](https://github.com/marcoverpas/).
 
 ---
 
@@ -70,14 +70,14 @@ This part of the [module of Economics of Digital Transormation](https://univaq.c
   - Implications for monetary policy, financial stability, and the banking sector.
 - **Readings**:
   - Carlomagno, G., & Veronese Passarella, M. (2023). *Central bank digital currencies: Exploring the transformative implications on credit mechanisms and the banking system*.
-  - R tutorials for stock-flow consistent modelling ([GitHub repository](https://github.com/marcoverpas/)).
+  - *R* tutorials for [stock-flow consistent modelling in R](https://github.com/marcoverpas/).
 
 ---
 
 ## Detailed Breakdown of Hours
 
-1. **Lecture 1**: Introduction to Monetary Economics (3 hours).
-2. **Lecture 2**: Introduction to Cryptocurrencies (2 hours).
-3. **Lecture 3**: Stock-Flow Consistent Dynamic Models for Economic Research (2 hours).
-4. **Lecture 4**: Hands-On Modelling in `R` (3 hours).
-5. **Lecture 5**: Central Bank Digital Currencies in a SFC Model (2 hours).
+1. **Lecture 1**: Introduction to Monetary Economics (*3 hours*).
+2. **Lecture 2**: Introduction to Cryptocurrencies (*2 hours*).
+3. **Lecture 3**: Stock-Flow Consistent Dynamic Models for Economic Research (*2 hours*).
+4. **Lecture 4**: Hands-On Modelling in *R* (*3 hours*).
+5. **Lecture 5**: Central Bank Digital Currencies in a SFC Model (*2 hours*).
