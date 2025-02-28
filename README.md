@@ -72,7 +72,7 @@ This part of the [module of Economics of Digital Transormation](https://univaq.c
   - Implications for monetary policy, financial stability, and the banking sector.
 - **Readings**:
   - Carlomagno, G., & Veronese Passarella, M. (2023). [*Central bank digital currencies: Exploring the transformative implications on credit mechanisms and the banking system*](https://www.marcopassarella.it/wp-content/uploads/Carlomagno_VeroneseP_2023-protected.pdf).
-  - *R* tutorials for [stock-flow consistent modelling in R](https://github.com/marcoverpas/).
+  - `R` tutorials for [stock-flow consistent modelling in R](https://github.com/marcoverpas/).
 
 ---
 
