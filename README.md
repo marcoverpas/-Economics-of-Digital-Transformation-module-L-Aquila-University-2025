@@ -18,7 +18,7 @@ This part of the [module of Economics of Digital Transormation](https://univaq.c
 - **Readings**:
   - Graziani, A. (2003). *The Monetary Economy of Production* (selected sections).
   - Lavoie, M. (2014). *Post-Keynesian Economics: New Foundations* (selected sections).
-  - Veronese Passarella, M. *Issues in Monetary Policies and Monetary Circuits*, [GitHub repository](https://github.com/marcoverpas/PhD_Lectures_Macerata_2025) (selected sections).
+  - Veronese Passarella, M. [*Issues in Monetary Policies and Monetary Circuits*](https://github.com/marcoverpas/PhD_Lectures_Macerata_2025) (selected sections).
 
 ---
 
