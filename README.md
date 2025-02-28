@@ -31,7 +31,7 @@ This part of the [module of Economics of Digital Transormation](https://univaq.c
   - The critique of cryptocurrencies from an endogenous monetary theory perspective.
 - **Readings**:
   - Amato, M., & Fantacci, L. (2011). *The End of Finance* or related works on cryptocurrencies (selected sections).
-  - Carlomagno, G., & Veronese Passarella, M. (2023). *Central bank digital currencies: Exploring the transformative implications on credit mechanisms and the banking system*.
+  - Carlomagno, G., & Veronese Passarella, M. (2023). [*Central bank digital currencies: Exploring the transformative implications on credit mechanisms and the banking system*](https://www.marcopassarella.it/wp-content/uploads/Carlomagno_VeroneseP_2023-protected.pdf).
   - Nakamoto, S. (2008). [*Bitcoin: A Peer-to-Peer Electronic Cash System*](https://www.ussc.gov/sites/default/files/pdf/training/annual-national-training-seminar/2018/Emerging_Tech_Bitcoin_Crypto.pdf).
 
 ---
@@ -69,7 +69,7 @@ This part of the [module of Economics of Digital Transormation](https://univaq.c
   - Modelling CBDCs in a stock-flow consistent model.
   - Implications for monetary policy, financial stability, and the banking sector.
 - **Readings**:
-  - Carlomagno, G., & Veronese Passarella, M. (2023). *Central bank digital currencies: Exploring the transformative implications on credit mechanisms and the banking system*.
+  - Carlomagno, G., & Veronese Passarella, M. (2023). [*Central bank digital currencies: Exploring the transformative implications on credit mechanisms and the banking system*](https://www.marcopassarella.it/wp-content/uploads/Carlomagno_VeroneseP_2023-protected.pdf).
   - *R* tutorials for [stock-flow consistent modelling in R](https://github.com/marcoverpas/).
 
 ---
