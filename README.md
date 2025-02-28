@@ -24,9 +24,9 @@ This part of the [module of Economics of Digital Transormation](https://univaq.c
 
 ---
 
-### Lecture 2: Introduction to Cryptocurrencies (2 hours)
+### Lecture 2: Introduction to Digital Currencies (2 hours)
 
-- **Objective**: Explore the emergence and economic implications of cryptocurrencies.
+- **Objective**: Explore the emergence and economic implications of cryptocurrencies and other digital currencies.
 - **Topics**:
   - The history and design of cryptocurrencies (Bitcoin, Ethereum, etc.).
   - Cryptocurrencies as money: can they fulfil the functions of money?
@@ -79,7 +79,7 @@ This part of the [module of Economics of Digital Transormation](https://univaq.c
 ## Detailed Breakdown of Hours
 
 1. **Lecture 1**: Introduction to Monetary Economics (*3 hours*).
-2. **Lecture 2**: Introduction to Cryptocurrencies (*2 hours*).
+2. **Lecture 2**: Introduction to Digital Currencies (*2 hours*).
 3. **Lecture 3**: Stock-Flow Consistent Dynamic Models for Economic Research (*2 hours*).
 4. **Lecture 4**: Hands-On Modelling in `R` (*3 hours*).
 5. **Lecture 5**: Central Bank Digital Currencies in a SFC Model (*2 hours*).
