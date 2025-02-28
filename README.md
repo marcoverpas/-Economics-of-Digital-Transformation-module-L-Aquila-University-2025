@@ -50,7 +50,7 @@ This part of the [module of Economics of Digital Transormation](https://univaq.c
 
 ---
 
-### Lecture 4: Hands-On Modelling in *R* (3 hours)
+### Lecture 4: Hands-On Modelling in `R` (3 hours)
 
 - **Objective**: Introduce students to practical modelling using `R`.
 - **Topics**:
@@ -59,7 +59,7 @@ This part of the [module of Economics of Digital Transormation](https://univaq.c
   - A bank-money SFC model.
 - **Readings**:
   - Godley, W., & Lavoie, M. (2007). *Monetary Economics* ([selected sections](https://www.marcopassarella.it/wp-content/uploads/GodleyLavoie-2007-sections_protected.pdf)).
-  - *R* tutorials for [stock-flow consistent modelling in R](https://github.com/marcoverpas/).
+  - `R` tutorials for [stock-flow consistent modelling in R](https://github.com/marcoverpas/).
 
 ---
 
@@ -81,5 +81,5 @@ This part of the [module of Economics of Digital Transormation](https://univaq.c
 1. **Lecture 1**: Introduction to Monetary Economics (*3 hours*).
 2. **Lecture 2**: Introduction to Cryptocurrencies (*2 hours*).
 3. **Lecture 3**: Stock-Flow Consistent Dynamic Models for Economic Research (*2 hours*).
-4. **Lecture 4**: Hands-On Modelling in *R* (*3 hours*).
+4. **Lecture 4**: Hands-On Modelling in `R` (*3 hours*).
 5. **Lecture 5**: Central Bank Digital Currencies in a SFC Model (*2 hours*).
