@@ -4,7 +4,7 @@
 
 ## Overview
 
-This part of the [module of Economics of Digital Transormation](https://univaq.coursecatalogue.cineca.it/insegnamenti/2024/36940/2022/1/10391?coorte=2024&schemaid=11339) explores the intersection of monetary economics and digital transformation, covering foundational monetary theory, the rise of cryptocurrencies, the development of central bank digital currencies, and dynamic modelling of monetary economies of production (in an `R` environment).
+This part of the [module of Economics of Digital Transormation](https://univaq.coursecatalogue.cineca.it/insegnamenti/2024/36940/2022/1/10391?coorte=2024&schemaid=11339) (University of L'Aquila, 2024/2025) explores the intersection of monetary economics and digital transformation, covering foundational monetary theory, the rise of cryptocurrencies, the development of central bank digital currencies, and dynamic modelling of monetary economies of production (in an `R` environment).
 
 *Note*: some links/files are protected. Contact me (marco.veronesepassarella@univaq.it) to obtain the password.
 
