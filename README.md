@@ -20,7 +20,7 @@ This part of the [module of Economics of Digital Transormation](https://univaq.c
 - **Readings**:
   - Graziani, A. (2003). *The Monetary Economy of Production* ([selected sections](https://www.marcopassarella.it/wp-content/uploads/Graziani-2003-sections_protected.pdf)).
   - Lavoie, M. (2014). *Post-Keynesian Economics: New Foundations* ([selected sections](https://www.marcopassarella.it/wp-content/uploads/Lavoie-2014-sections_protected.pdf)).
-  - Veronese Passarella, M. (2025). [*Issues in Monetary Policies and Monetary Circuits*](https://github.com/marcoverpas/PhD_Lectures_Macerata_2025) (selected sections).
+  - Veronese Passarella, M. (2025). [*Issues in Monetary Policies and Monetary Circuits*](https://github.com/marcoverpas/PhD_Lectures_Macerata_2025).
 
 ---
 
@@ -46,7 +46,7 @@ This part of the [module of Economics of Digital Transormation](https://univaq.c
   - Key sectors and balance sheets in a monetary economy.
 - **Readings**:
   - Godley, W., & Lavoie, M. (2007). *Monetary Economics* ([selected sections](https://www.marcopassarella.it/wp-content/uploads/GodleyLavoie-2007-sections_protected.pdf)).
-  - Lavoie, M. (2014). *Post-Keynesian Economics: New Foundations* (selected sections).
+  - Lavoie, M. (2014). *Post-Keynesian Economics: New Foundations* ([selected sections](https://www.marcopassarella.it/wp-content/uploads/Lavoie-2014-sections_protected.pdf)).
 
 ---
 
