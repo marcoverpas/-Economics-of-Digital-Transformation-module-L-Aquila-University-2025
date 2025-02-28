@@ -1,6 +1,6 @@
 # Economics of Digital Transformation... in Monetary and Financial Markets
 
-**Marco Veronese Passarella**
+[**Marco Veronese Passarella**](https://ec.univaq.it/index.php?id=veronesepassarella&no_cache=1)
 
 ## Overview
 
